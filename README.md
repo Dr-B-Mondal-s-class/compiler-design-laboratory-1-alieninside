@@ -1,5 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6093159&assignment_repo_type=AssignmentRepo)
 ![iiitranchilogo](https://user-images.githubusercontent.com/72234984/139264380-c6752f2e-6c7c-4c35-a10e-5f05d3021e0d.png)
+
  <CENTER>  <H1>Compiler Design Laboratory Work</H1>  </CENTER>
 
 <h2>Introduction</h2>
@@ -39,7 +40,7 @@
   <tr>
     <td>Lab 1</td>
     <td>07/08/2021</td>
-    <td>[Link]</td>
+    <td>[Link]()</td>
   </tr>
   
   <tr>
@@ -77,3 +78,4 @@
   </tr>
  
 </table>
+[I'm an inline-style link](https://www.google.com)
