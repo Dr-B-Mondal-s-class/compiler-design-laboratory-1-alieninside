@@ -1,0 +1,8 @@
+
+ 
+Hello			World!
+
+
+
+
+Lex Program        to remove multiple whitespace,           tab and      newline.
